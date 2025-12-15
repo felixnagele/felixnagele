@@ -1,9 +1,19 @@
 <h1>🏋️‍♂️ Felix Nagele</h1>
 
-<!-- Intro Typing SVG -->
+<!-- Intro Typing SVG Dark Theme Edit -->
 <!-- https://readme-typing-svg.demolab.com/demo/?font=Roboto+Mono&weight=500&duration=2200&pause=1100&color=00D8FF&width=520&height=64&lines=Hi+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I%27m+Felix;Student+%F0%9F%8E%93+learning+along+the+way;Check+out+my+projects+%E2%AC%87%EF%B8%8F -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&duration=2200&pause=1100&color=00D8FF&width=520&height=64&lines=Hi+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I'm+Felix;Student+%F0%9F%8E%93+learning+along+the+way;Check+out+my+projects+%E2%AC%87%EF%B8%8F" alt="Intro Typing SVG" />
+<!-- Intro Typing SVG Light Theme Edit -->
+<!-- https://readme-typing-svg.demolab.com/demo/?font=Roboto+Mono&weight=500&duration=2200&pause=1100&color=2F80ED&width=520&height=64&lines=Hi+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I%27m+Felix;Student+%F0%9F%8E%93+learning+along+the+way;Check+out+my+projects+%E2%AC%87%EF%B8%8F -->
+
+<!-- Intro Typing SVG -->
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&duration=2200&pause=1100&color=00D8FF&width=520&height=64&lines=Hi+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I'm+Felix;Student+%F0%9F%8E%93+learning+along+the+way;Check+out+my+projects+%E2%AC%87%EF%B8%8F" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&duration=2200&pause=1100&color=2F80ED&width=520&height=64&lines=Hi+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I'm+Felix;Student+%F0%9F%8E%93+learning+along+the+way;Check+out+my+projects+%E2%AC%87%EF%B8%8F" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&duration=2200&pause=1100&color=2F80ED&width=520&height=64&lines=Hi+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I'm+Felix;Student+%F0%9F%8E%93+learning+along+the+way;Check+out+my+projects+%E2%AC%87%EF%B8%8F" alt="Intro Typing SVG" />
+  </picture>
+</p>
 
 <details open> 
   <summary><h2>🧰 Languages and Tools</h2></summary>
