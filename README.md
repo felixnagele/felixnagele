@@ -15,7 +15,7 @@
   </picture>
 </p>
 
-<details open> 
+<details open>
   <summary><h2>🧰 Languages and Tools</h2></summary>
 
   <!-- Icons -->
@@ -35,35 +35,24 @@
 
 </details>
 
-<details open> 
+<details open>
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <!-- GitHub Stats -->
   <p align="left">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/felixnagele?cardType=github&theme=react&preferLogin=false&Border=FFFFFF00" />
-      <source media="(prefers-color-scheme: light)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/felixnagele?cardType=github&theme=default&preferLogin=false&Border=FFFFFF00" />
-      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/felixnagele?cardType=github&theme=default&preferLogin=false&Border=FFFFFF00" alt="GitHub Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=felixnagele&theme=react&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=felixnagele&theme=default&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=felixnagele&theme=default&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true" alt="GitHub Stats" />
     </picture>
   </p>
-
-  <!-- GitHub Stats Optional -->
-  <!--
-  <p align="left">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=felixnagele&theme=react&show_icons=true&hide_border=true&hide_rank=false&rank_icon=github&custom_title=GitHub%20Stats&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=felixnagele&theme=default&show_icons=true&hide_border=true&hide_rank=false&rank_icon=github&custom_title=GitHub%20Stats&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true" />
-      <img src="https://github-readme-stats.vercel.app/api?username=felixnagele&theme=default&show_icons=true&hide_border=true&hide_rank=false&rank_icon=github&custom_title=GitHub%20Stats&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true" alt="GitHub Stats" />
-    </picture>
-  </p>
-  -->
 
   <!-- Most Used Languages -->
   <p align="left">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=felixnagele&layout=donut&theme=react&hide_border=true&hide=html,css&custom_title=Most%20Used%20Languages" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=felixnagele&layout=donut&theme=default&hide_border=true&hide=html,css&custom_title=Most%20Used%20Languages" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixnagele&layout=donut&theme=default&hide_border=true&hide=html,css&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=felixnagele&layout=donut&theme=react&hide_border=true&hide=html,css,javascript&custom_title=Most%20Used%20Languages" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=felixnagele&layout=donut&theme=default&hide_border=true&hide=html,css,javascript&custom_title=Most%20Used%20Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixnagele&layout=donut&theme=default&hide_border=true&hide=html,css,javascript&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
     </picture>
   </p>
 
