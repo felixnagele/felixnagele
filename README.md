@@ -50,9 +50,9 @@
   <!-- Most Used Languages -->
   <p align="left">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=felixnagele&layout=donut&theme=react&hide_border=true&hide=html,css,javascript&custom_title=Most%20Used%20Languages" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=felixnagele&layout=donut&theme=default&hide_border=true&hide=html,css,javascript&custom_title=Most%20Used%20Languages" />
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=felixnagele&layout=donut&theme=default&hide_border=true&hide=html,css,javascript&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=felixnagele&layout=donut&theme=react&hide_border=true&hide=html%2Ccss%2Cjavascript&custom_title=Most%20Used%20Languages&cache_seconds=0" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=felixnagele&layout=donut&theme=default&hide_border=true&hide=html%2Ccss%2Cjavascript&custom_title=Most%20Used%20Languages&cache_seconds=0" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=felixnagele&layout=donut&theme=default&hide_border=true&hide=html%2Ccss%2Cjavascript&custom_title=Most%20Used%20Languages&cache_seconds=0" alt="Most Used Languages" />
     </picture>
   </p>
 
