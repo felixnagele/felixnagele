@@ -16,21 +16,24 @@
 </p>
 
 <details open>
-  <summary><h2>🧰 Languages and Tools</h2></summary>
+  <summary><h2>🧰 Tech Stack</h2></summary>
 
-  <!-- Icons -->
   <p align="left">
+    <strong>Languages</strong><br />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" height="30px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"         alt="NodeJS"     height="30px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"         alt="Python"     height="30px" />
-    <img src="https://skillicons.dev/icons?i=mysql&theme=light"                                             alt="MySQL"      height="30px" />
-    <img src="https://skillicons.dev/icons?i=bots&theme=light"                                              alt="Bots"       height="30px" />
     <img src="https://skillicons.dev/icons?i=java&theme=light"                                              alt="Java"       height="30px" />
+  </p>
+
+  <p align="left">
+    <strong>Tools & Frameworks</strong><br />
+    <img src="https://skillicons.dev/icons?i=mysql&theme=light"                                             alt="MySQL"      height="30px" />
+    <img src="https://skillicons.dev/icons?i=electron&theme=light"                                          alt="Electron"   height="30px" />
+    <img src="https://skillicons.dev/icons?i=bots&theme=light"                                              alt="Bots"       height="30px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" height="30px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"           alt="HTML5"      height="30px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"             alt="CSS3"       height="30px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" height="30px" />
-    <img src="https://skillicons.dev/icons?i=electron&theme=light"                                          alt="Electron"   height="30px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"   alt="C++"        height="30px" />
   </p>
 
 </details>
