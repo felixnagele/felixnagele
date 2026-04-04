@@ -38,8 +38,8 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake-blue-theme.svg?color_snake=%23FB8C00&color_dots=%23EBEDF0,%23B3E5FC,%234FC3F7,%2303A9F4,%2301579B
-            dist/github-snake-blue-theme-dark.svg?palette=github-dark&color_snake=%23FFA726&color_dots=%23161B22,%23003D5B,%23006097,%23007CC3,%230096FF
+            dist/github-snake-blue-theme.svg?color_snake=%23FFD43B&color_dots=%23EBEDF0,%23D8E7F5,%239FC8E8,%236AA5D7,%233776AB
+            dist/github-snake-blue-theme-dark.svg?palette=github-dark&color_snake=%23FFE873&color_dots=%23161B22,%231E3A5F,%23285A84,%233278A9,%234B8BBE
 
       # Step 2: Push the generated SVGs to the 'output' branch for use in the profile README
       - name: Publish SVGs to output branch
