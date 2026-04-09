@@ -1,3 +1,5 @@
+<img align="right" src="assets/GitHub-logo.gif" width="200px" />
+
 <h1>🏋️‍♂️ Felix Nagele</h1>
 
 <!-- Intro Typing SVG -->
