@@ -6,32 +6,31 @@
 name: GitHub Profile Snake Animation
 
 on:
-  # Run automatically every day at midnight (UTC)
+  push:
+    branches: [main]
   schedule:
     - cron: "0 0 * * *"
-
-  # Allow manual workflow runs from the GitHub Actions UI
   workflow_dispatch:
 
-  # Run when changes are pushed to the main branch
-  push:
-    branches:
-      - main
+permissions: {}
+
+# Prevents multiple instances from running at the same time
+concurrency:
+  group: github-snake
+  cancel-in-progress: true
 
 jobs:
   generate:
-    # Grant permission to write to the repository (needed for pushing to a branch)
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
       # Step 1: Generate the snake animation SVGs from the GitHub contributions graph
       - name: Generate snake animation SVGs
         uses: Platane/snk/svg-only@v3
         with:
-          # Use the repository owner as the GitHub username
           github_user_name: ${{ github.repository_owner }}
           # Output SVG files (light and dark mode) — add color query params here.
           # color_snake sets the snake color, color_dots sets the 5-contribution-level colors (0 -> max)
@@ -49,3 +48,5 @@ jobs:
           publish_dir: ./dist
           publish_branch: output
           commit_message: "Update GitHub Snake Animation [skip ci]"
+          user_name: "github-actions[bot]"
+          user_email: "41898282+github-actions[bot]@users.noreply.github.com"
